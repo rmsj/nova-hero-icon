@@ -13,7 +13,7 @@ import Building from './components/Icons/Building'
 import Calendar from './components/Icons/Calendar'
 import Call from './components/Icons/Call'
 import CallIncoming from './components/Icons/CallIncoming'
-import CallOugoing from './components/Icons/CallOugoing'
+import CallOutgoing from './components/Icons/CallOutgoing'
 import Camera from './components/Icons/Camera'
 import Cart from './components/Icons/Cart'
 import Chat from './components/Icons/Chat'
@@ -133,7 +133,7 @@ Nova.booting((Vue, router, store) => {
     Vue.component('icon-calendar', Calendar);
     Vue.component('icon-h-call', Call)
     Vue.component('icon-h-call-incoming', CallIncoming)
-    Vue.component('icon-h-call-ougoing', CallOugoing)
+    Vue.component('icon-h-call-outgoing', CallOutgoing)
     Vue.component('icon-h-camera', Camera)
     Vue.component('icon-h-cart', Cart)
     Vue.component('icon-h-chat', Chat)
