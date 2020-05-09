@@ -1,4 +1,4 @@
-# Nova HeroIcon UI
+# Nova Heroicons-ui
 
 This tool allows you to use all icons on [heroicons-ui](https://github.com/sschoger/heroicons-ui) on Laravel Nova
 on your custom tool, resource-tool, custom index/detail tool bars - which was actually what started me on this package.
