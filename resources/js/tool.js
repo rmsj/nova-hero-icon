@@ -118,19 +118,19 @@ import IconH from './components/IconH'
 Nova.booting((Vue, router, store) => {
 
     // list of icons
-    Vue.component('icon-announcement', Announcement);
-    Vue.component('icon-archive', Archive);
-    Vue.component('icon-arrow-down', ArrowDown);
-    Vue.component('icon-arrow-right', ArrowRight);
-    Vue.component('icon-arrow-up', ArrowUp);
-    Vue.component('icon-arrow-left', ArrowLeft);
-    Vue.component('icon-at-symbol', AtSymbol);
-    Vue.component('icon-book', Book);
-    Vue.component('icon-bookmark', BookMark);
-    Vue.component('icon-briefcase', Briefcase);
-    Vue.component('icon-browser', Browser);
-    Vue.component('icon-building', Building);
-    Vue.component('icon-calendar', Calendar);
+    Vue.component('icon-h-announcement', Announcement);
+    Vue.component('icon-h-archive', Archive);
+    Vue.component('icon-h-arrow-down', ArrowDown);
+    Vue.component('icon-h-arrow-right', ArrowRight);
+    Vue.component('icon-h-arrow-up', ArrowUp);
+    Vue.component('icon-h-arrow-left', ArrowLeft);
+    Vue.component('icon-h-at-symbol', AtSymbol);
+    Vue.component('icon-h-book', Book);
+    Vue.component('icon-h-bookmark', BookMark);
+    Vue.component('icon-h-briefcase', Briefcase);
+    Vue.component('icon-h-browser', Browser);
+    Vue.component('icon-h-building', Building);
+    Vue.component('icon-h-calendar', Calendar);
     Vue.component('icon-h-call', Call)
     Vue.component('icon-h-call-incoming', CallIncoming)
     Vue.component('icon-h-call-outgoing', CallOutgoing)

@@ -35,7 +35,7 @@ export default {
 
   computed: {
     iconName() {
-      return `icon-${this.type}`
+      return `icon-h-${this.type}`
     },
   },
 }
