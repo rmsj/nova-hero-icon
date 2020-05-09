@@ -10,7 +10,7 @@ This package makes usage of the awesome [heroicons-ui](https://github.com/sschog
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require kabbouchi/nova-impersonate
+composer require rmsj/nova-hero-icon
 ```
 
 ## Credits
