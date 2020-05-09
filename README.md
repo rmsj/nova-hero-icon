@@ -22,16 +22,14 @@ When using the icons, you can use Nova own <icon> component, usin the types with
 
 ```vue
 <icon
-    type="h-exclamation"
-    class="text-80"
+    type="h-exclamation"    
 />
 ```
-or the one included with the package.
+or, if you use `icon-h`, remove the `h`
 
 ```vue
 <icon-h
-    type="h-exclamation"
-    class="text-80"
+    type="exclamation"    
 />
 ```
 All the icons have the `h` prefix (h for heroicons) to avoid clashes with possible updates from nova when they could include more icons.
