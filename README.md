@@ -1,5 +1,9 @@
 # Nova Heroicons-ui
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/rmsj/nova-hero-icon.svg?style=flat-square)](https://packagist.org/packages/rmsj/nova-hero-icon)
+[![Total Downloads](https://img.shields.io/packagist/dt/rmsj/nova-hero-icon.svg?style=flat-square)](https://packagist.org/packages/rmsj/nova-hero-icon)
+
+
 This tool allows you to use all icons on [heroicons-ui](https://github.com/sschoger/heroicons-ui) on Laravel Nova
 on your custom tool, resource-tool, custom index/detail tool bars - which was actually what started me on this package.
 
