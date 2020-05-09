@@ -1,6 +1,6 @@
 <?php
 
-namespace NovaHeroIcon\HeroIcon;
+namespace NovaHeroIcon;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

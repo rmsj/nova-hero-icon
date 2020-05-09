@@ -1,6 +1,6 @@
 <?php
 
-namespace NovaHeroIcon\HeroIcon;
+namespace NovaHeroIcon;
 
 use Laravel\Nova\ResourceTool;
 
