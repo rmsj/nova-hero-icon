@@ -16,6 +16,25 @@ You can install the package in to a Laravel app that uses [Nova](https://nova.la
 ```bash
 composer require rmsj/nova-hero-icon
 ```
+## Usage
+
+When using the icons, you can use Nova own <icon> component, usin the types with a slightly different naming convention.
+
+```vue
+<icon
+    type="h-exclamation"
+    class="text-80"
+/>
+```
+or the one included with the package.
+
+```vue
+<icon-h
+    type="h-exclamation"
+    class="text-80"
+/>
+```
+All the icons have the `h` prefix (h for heroicons) to avoid clashes with possible updates from nova when they could include more icons.
 
 ## Credits
 
